@@ -42,7 +42,7 @@ section img:nth-child(2), section img:nth-child(5) {
   }
 
   section img:nth-child(2), section img:nth-child(5) {
-  display: block;
+    display: block;
   }
 }
 
